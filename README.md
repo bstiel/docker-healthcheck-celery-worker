@@ -1,4 +1,4 @@
-## Docker Healthcheck for Celery Workers
+## Docker HEALTHCHECK for Celery Workers
 
 This repository contains the source code used in my blog post:
 
